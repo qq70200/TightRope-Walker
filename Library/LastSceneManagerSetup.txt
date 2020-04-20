@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Storm.unity
+  isLoaded: 1
+  isActive: 1
